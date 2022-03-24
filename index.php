@@ -8,7 +8,7 @@
     <title>Text Tools</title>
 </head>
 <body>
-    <form action="date.php" method="get">
+    <form method="get" action="date.php">
         Texto:<input type="text" name="texto" id="" placeholder="Insira um texto">
         Tamanho fonte<select name="fonte" id="">
             <option value="8pt">8pt</option>
